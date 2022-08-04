@@ -1,0 +1,53 @@
+
+
+#Facebook, #Twitter, #LinkedIn {
+      height:26px;
+      width:26px;
+      display:inline-block;
+      color: antiquewhite;
+}
+#Facebook a, #Twitter a, #LinkedIn a{
+    background-size:contain;
+    display:inline-block;
+    height:100%;
+    width:100%;
+    color: aliceblue;
+}
+#Facebook {
+    background-image: url('http://paksef.com/wp-content/uploads/2015/08/facebook-icon-hover.png');
+  }
+  #Facebook:hover {
+    background-image: url('http://paksef.com/wp-content/uploads/2015/08/facebook-icon.png');
+  }
+  #Twitter {
+    background-image: url('http://paksef.com/wp-content/uploads/2015/08/twitter-icon-hover.png');
+  }
+  #Twitter:hover {
+    background-image: url('http://paksef.com/wp-content/uploads/2015/08/twitter-icon.png');
+  }
+  #LinkedIn {
+    background-image: url('http://paksef.com/wp-content/uploads/2015/08/Linkedin-icon-hover.png');
+  }
+  #LinkedIn:hover {
+    background-image: url('http://paksef.com/wp-content/uploads/2015/08/Linkedin-icon.png');
+  }
+  .container my-12{
+    margin-bottom: 40px;
+  }
+
+  .fa-linkedin-square {
+    color: blue;
+    
+    
+  }
+
+  .fa-envelope{
+   color: red;
+   
+   size: 50px;
+  }
+
+  .fa-linkedin-square:hover {
+    color: blue;
+    background-color: #fff;
+  }

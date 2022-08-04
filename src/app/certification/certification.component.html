@@ -1,0 +1,9 @@
+<h1 style="text-align:center;color: white;margin-bottom: 25px;">Certifications</h1>
+<ul>
+    <li *ngFor="let course of courses" style="color: white;">
+        {{course.courseid}} - {{course.coursename}}
+        <br>
+       <a href="{{course.url}}" style="color: aqua;">certificate</a>
+        <br><br>
+    </li>
+</ul>

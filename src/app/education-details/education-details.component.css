@@ -1,0 +1,33 @@
+table,th,td{
+   
+    table-layout: fixed;
+    text-align: center;
+    padding: 4vmin;
+    padding-bottom: 20px;
+    color: white;
+    border: 1px solid;
+    justify-content: center;
+    margin: auto;
+}
+thead {
+    background-color: #04AA6D;
+    color: white;
+    
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    word-wrap: break-word;
+    padding: auto;
+  }
+  ul{
+    color: white;
+    margin-left: 40px;
+  }
+  h3{
+    margin-left: 35px;
+  }
+
+  td { 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    word-wrap: break-word;
+}

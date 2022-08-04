@@ -1,0 +1,9 @@
+.card-img-top {
+    width: 10vw;
+    height: 15vh;
+    margin-bottom: 30px;
+    
+}
+.card:hover{
+    background-color: aqua;
+}

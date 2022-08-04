@@ -1,0 +1,27 @@
+li{
+    color:bisque;
+    font-size: large;
+    font-weight: bold;
+    margin: auto;
+    margin-left: 200px;
+}
+.img{
+    height:200px;
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+table{
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 100px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+}
+.fa-plus{
+    color: aliceblue;
+}
+
+.fa-minus{
+    color: aliceblue;
+}
